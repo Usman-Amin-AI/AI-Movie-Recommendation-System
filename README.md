@@ -131,6 +131,6 @@ Requires local .pkl files to function correctly
 
 # 📄 License
 
-MIT License © 2025
-Usman Amin (@usmanamin3254)
-Project: AI-Movie Recommendation System
+MIT License © 2026
+Usman Amin (Usman-Amin-AI)
+Project: AI-Powered-Movie Recommendation System
